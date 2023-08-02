@@ -1,4 +1,3 @@
-#import dateOP 
 from dateOP import today_date
 
 print("current date is: ")
